@@ -12,3 +12,9 @@ nav > i{
 	font-size: 140%;
 	color: white;
 }
+
+.menuItemOther{
+	display: none;
+	text-decoration: none;
+	transition: 0.4s;
+}
